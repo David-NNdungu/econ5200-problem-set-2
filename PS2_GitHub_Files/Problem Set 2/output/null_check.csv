@@ -1,0 +1,5 @@
+,false_positives,streams,rate,Monte_Carlo_SE,nominal_upper_bound
+Version 1: symmetric mixture,31,1000,0.031,0.0054807846153630225,0.05
+Version 2: positive mixture,29,1000,0.029,0.005306505441436953,0.05
+Naive: p < .05 at any look,521,1000,0.521,0.015797436500901024,0.05
+Fixed horizon: final p < .05,49,1000,0.049,0.006826346021115542,0.05
